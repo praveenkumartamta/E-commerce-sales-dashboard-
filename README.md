@@ -80,13 +80,13 @@ The dashboard includes:
 
 # Area                    Insight	
 
-Region	                 West and East regions lead in both Sales and Profit
-Segment          	      Consumer segment is the top buyer group
-Category	               Technology category brings highest profit margin
-Sub-category	           Phones and Chairs contribute high revenue
-Ship Mode              	Most shipments are done via Standard Class
-Customer Insight	       Returning customers are more likely to buy high-value items
-Sales vs Profit	        Some categories like Furniture have high sales but low or negative profit
+Region	       -         West and East regions lead in both Sales and Profit
+Segment       -  	      Consumer segment is the top buyer group
+Category	      -        Technology category brings highest profit margin
+Sub-category	   -       Phones and Chairs contribute high revenue
+Ship Mode        -      	Most shipments are done via Standard Class
+Customer Insight	 -      Returning customers are more likely to buy high-value items
+Sales vs Profit	   -     Some categories like Furniture have high sales but low or negative profit
 
 ## 💡 Recommendations
 Focus promotional offers in East & West regions
